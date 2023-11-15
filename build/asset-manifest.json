@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb82aa9b.css",
+    "main.js": "/static/js/main.f53bbde2.js",
+    "static/media/pexels-pixabay-415829.jpg": "/static/media/pexels-pixabay-415829.7a2f12df7485b65d348f.jpg",
+    "static/media/sf-pro-text_regular.ttf": "/static/media/sf-pro-text_regular.4750d88e1b7b470052f0.ttf",
+    "static/media/sf-pro-display_regular.ttf": "/static/media/sf-pro-display_regular.0b3401aed7002c987e40.ttf",
+    "static/media/395831883___n.jpg": "/static/media/395831883_1572416453566915_1175100630508051297_n.040f71525022e51cb323.jpg",
+    "static/media/mock-portrait-photo.jpg": "/static/media/mock-portrait-photo.aa2416213e5202933dbd.jpg",
+    "static/media/ca.jpg": "/static/media/ca.a6cd1ef6fcfdffc0e023.jpg",
+    "static/media/rs.jpg": "/static/media/rs.0ea6f3c8ae3bb5f5fa10.jpg",
+    "static/media/blueprints.jpg": "/static/media/blueprints.cee3290bc0be080abf22.jpg",
+    "static/media/ad.jpg": "/static/media/ad.8417da873c24dcf5542d.jpg",
+    "static/media/02_ewt_team_dga.jpg": "/static/media/02_ewt_team_dga.25263b48301e90d761e7.jpg",
+    "static/media/qa.jpg": "/static/media/qa.a98b8b8b565f8ee75bfe.jpg",
+    "static/media/Top_intro-north-vietnam.jpg": "/static/media/Top_intro-north-vietnam.9b4733c297b562c2b891.jpg",
+    "static/media/logo1.jpg": "/static/media/logo1.2891144e47d3f2deb220.jpg",
+    "static/media/logo.svg": "/static/media/logo.218a1943f061c76c98754f97033db765.svg",
+    "static/media/process_tools.svg": "/static/media/process_tools.7ffb6fc70342161df0b98c180326d6f3.svg",
+    "static/media/process_mag.svg": "/static/media/process_mag.a5d4a71b854accbba52677059b4bb035.svg",
+    "static/media/process_ruler.svg": "/static/media/process_ruler.f0f3450274b47514cd5097fdb1ac91d2.svg",
+    "index.html": "/index.html",
+    "main.eb82aa9b.css.map": "/static/css/main.eb82aa9b.css.map",
+    "main.f53bbde2.js.map": "/static/js/main.f53bbde2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb82aa9b.css",
+    "static/js/main.f53bbde2.js"
+  ]
+}
